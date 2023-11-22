@@ -1,0 +1,8 @@
+com\zjy\fb\service\Impl\UserServiceImpl.class
+com\zjy\fb\config\CorsConfig.class
+com\zjy\fb\mapper\UserMapper.class
+com\zjy\fb\service\UserService.class
+com\zjy\fb\entity\User.class
+com\zjy\fb\config\MailConfig.class
+com\zjy\fb\controller\UserController.class
+com\zjy\fb\FbApplication.class
