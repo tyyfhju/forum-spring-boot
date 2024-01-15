@@ -14,7 +14,7 @@ public class UserController {
     @Autowired
     private UserService userService;
 
-    //注册
+
     @PostMapping("/register")
     public String register(@RequestBody User user) {
         if (userService.registerUser(user)) {
